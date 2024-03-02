@@ -1,0 +1,8 @@
+.btn-outline-pink{
+    border-color: #f28585;
+    color:#f28585;
+}
+.btn-outline-pink:hover{
+    background-color: #f28585;
+    color:white;
+}
